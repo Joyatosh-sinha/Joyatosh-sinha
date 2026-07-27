@@ -18,7 +18,7 @@
 - 🐧 Linux Enthusiast
 - 🌐 Learning Network Security & Web Security
 - 📚 Currently studying CVEs, OWASP Top 10, Linux Administration, and Security Automation
-- 🎯 Goal: Become a Security Engineer / SOC Analyst
+- 🎯 Goal: Become a Security Engineer / SOC & OSINT Analyst
 
 ---
 
